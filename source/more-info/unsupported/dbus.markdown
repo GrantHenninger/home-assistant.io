@@ -10,6 +10,8 @@ without this, multiple things that the Supervisor needs to do will fail.
 
 ## The solution
 
+Update Home Assistant Supervisor if an update is available.
+
 If the D-Bus daemon is not running, start it.
 
 If that does not help, reboot your operating system.
